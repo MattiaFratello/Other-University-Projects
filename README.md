@@ -10,10 +10,10 @@ Here a list of the projects and a short description:
   @MACHINE LEARNING @MODELLI SUPERVISIONATI @MODELLI NON SUPERVISIONATI @GENOMIC @R
 - ### Information System: 
   Un caso di studio per la modellazione e per l’assessment e il miglioramento dell’efficienza e efficacia dei processi.
-  @BPMN
+  @BPMN @PA
 - ### Smart Cities: 
   How to limit food waste in the city of Bilbao.
-  @BUSINESS PLAN
+  @BUSINESS PLAN @GREEN
 - ### Web Marketing: 
   La creazione di un'app per un e-commerce.
   @SWAT ANALYSIS @CUSTOMER JOURNEY @CUSTOMER EXPERIENCE
