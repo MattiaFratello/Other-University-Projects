@@ -7,12 +7,16 @@ To have access to codes and other materials you can send me an email at m.fratel
 Here a list of the projects and a short description:
 - ### Information System: 
   Un caso di studio per la modellazione e per l’assessment e il miglioramento dell’efficienza e efficacia dei processi.
+  @BPMN
 - ### Smart Cities: 
   How to limit food waste in the city of Bilbao.
+  @BUSINESS PLAN
 - ### Web Marketing: 
   La creazione di un'app per un e-commerce.
+  @SWAT ANALYSIS @CUSTOMER JOURNEY @CUSTOMER EXPERIENCE
 - ### Data Science Lab: 
   Identificare espressioni geniche peculiari per i tipi di tumore con lo scopo di individuare quali sono le porzioni del patrimonio genetico peculiari per una specifica tipologia di cancro.
+  @MACHINE LEARNING @MODELLI SUPERVISIONATI @MODELLI NON SUPERVISIONATI @GENOMIC @R
 
 
 
